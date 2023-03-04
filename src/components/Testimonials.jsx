@@ -1,7 +1,7 @@
 import React from "react";
 import { feedback } from "../constants/index.js";
 import styles from "../style.js";
-import FeedbackCard from "./FeedbackCard";
+import FeedbackCard from "./FeedBackCard.jsx";
 
 function Testimonials() {
   return (
